@@ -2,8 +2,7 @@
  * ExcellentExport 3.7.2
  * A client side Javascript export to Excel.
  *
- * @author: Jordi Burgos (jordiburgos@gmail.com)
- * @url: https://github.com/jmaister/excellentexport
+ *  * @url: https://github.com/sokoni-online/excellentexport
  *
  */
 

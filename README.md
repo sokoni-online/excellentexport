@@ -1,12 +1,12 @@
 
-[![Node CI](https://github.com/jmaister/excellentexport/actions/workflows/webpack.yml/badge.svg?branch=master)](https://github.com/jmaister/excellentexport/actions/workflows/webpack.yml)
+[![Node CI](https://github.com/sokoni-online/excellentexport/actions/workflows/webpack.yml/badge.svg?branch=master)](https://github.com/sokoni-online/excellentexport/actions/workflows/webpack.yml)
 [![](https://data.jsdelivr.com/v1/package/npm/excellentexport/badge)](https://www.jsdelivr.com/package/npm/excellentexport)
 [![Rate on Openbase](https://badges.openbase.io/js/rating/excellentexport.svg)](https://openbase.io/js/excellentexport?utm_source=embedded&utm_medium=badge&utm_campaign=rate-badge)
-[![Coverage Status](https://coveralls.io/repos/github/jmaister/excellentexport/badge.svg?branch=master)](https://coveralls.io/github/jmaister/excellentexport?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/sokoni-online/excellentexport/badge.svg?branch=master)](https://coveralls.io/github/sokoni-online/excellentexport?branch=master)
 
 # ExcellentExport.js
 
- - [:heart: Sponsor ExcellentExport.js project:heart:](https://github.com/sponsors/jmaister)
+ - [:heart: Sponsor ExcellentExport.js project:heart:](https://github.com/sponsors/sokoni-online)
 
  - JavaScript export to Excel or CSV.
 
@@ -52,7 +52,7 @@
 
 ### 3.6.0
 
-* Added sponsor link to the project [:heart: Sponsor ExcellentExport.js project:heart:](https://github.com/sponsors/jmaister)
+* Added sponsor link to the project [:heart: Sponsor ExcellentExport.js project:heart:](https://github.com/sponsors/sokoni-online)
 * Transform the project from JavaScript to TypeScript
 * Configure Jest as test runner
 * _Update npm dependencies to fix vulnerabilities_
@@ -161,15 +161,15 @@
 
 ## npm
 
-    npm install excellentexport --save
+    npm install @africasokoni/excellentexport --save
 
 ## yarn
 
-    yarn add excellentexport
+    yarn add @africasokoni/excellentexport
 
 ## bower
 
-    bower install excellentexport
+    bower install @africasokoni/excellentexport
 
 # Load
 
@@ -194,7 +194,7 @@
 
 **ES6 import**
 
-    import ExcellentExport from 'excellentexport';
+    import ExcellentExport from '@africasokoni/excellentexport';
 
 
 # Usage

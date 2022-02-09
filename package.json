@@ -1,14 +1,14 @@
 {
-  "name": "excellentexport",
-  "version": "3.8.0",
+  "name": "@africasokoni/excellentexport",
+  "version": "1.1.0",
   "description": "Client side JavaScript export to Excel or CSV",
   "license": "MIT",
-  "homepage": "http://jordiburgos.com",
+  "homepage": "http://tech.africasokoni.co.ke",
   "author": "Jordi Burgos <jordiburgos@gmail.com>",
-  "bugs": "https://github.com/jmaister/excellentexport/issues",
+  "bugs": "https://github.com/sokoni-online/excellentexport/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jmaister/excellentexport.git"
+    "url": "git://github.com/sokoni-online/excellentexport.git"
   },
   "keywords": [
     "excel",
